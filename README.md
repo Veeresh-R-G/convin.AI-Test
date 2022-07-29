@@ -1,6 +1,1 @@
-## Used for pesuoverflow
-
-Contains droppable Components
-
-- [ ] Finalize structure DB
-- [ ] Implement with PESUOVERFLOW
+## ASSIGNMENT FILES FOR CONVIN.AI
