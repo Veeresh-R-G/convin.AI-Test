@@ -1,10 +1,10 @@
 import React from 'react'
 
-function AddCard({setNewCard,title}) {
+function AddCard({ setNewCard, title }) {
     return (
-        <div onClick={()=>setNewCard((prev)=>!prev)}>
+        <div onClick={() => setNewCard((prev) => !prev)}>
             <div className='AddCard'>
-            + {title}
+                + {title}
             </div>
         </div>
     )
